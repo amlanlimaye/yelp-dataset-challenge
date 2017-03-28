@@ -3,6 +3,8 @@ Yelp Dataset Challenge
 
 Yelp's Dataset Challenge (https://www.yelp.com/dataset_challenge)
 
+Link to project blog post: https://amlanlimaye.github.io/blog/2017/03/09/vegas-yelpers-topics
+
 Project Organization
 ------------
 
